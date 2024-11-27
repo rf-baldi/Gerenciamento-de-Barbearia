@@ -1,0 +1,28 @@
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.AssemblyInfoInputs.cache
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.AssemblyInfo.cs
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.exe
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.deps.json
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.runtimeconfig.json
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.dll
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.pdb
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.dll
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\obj\Debug\net8.0\refint\Projeto EAD Rafael.dll
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.pdb
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.genruntimeconfig.cache
+C:\Users\Bryan Peruch\Desktop\Projeto EAD Rafael\obj\Debug\net8.0\ref\Projeto EAD Rafael.dll
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.exe
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.deps.json
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.runtimeconfig.json
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.dll
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\bin\Debug\net8.0\Projeto EAD Rafael.pdb
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.AssemblyInfoInputs.cache
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.AssemblyInfo.cs
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.csproj.CoreCompileInputs.cache
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.dll
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\obj\Debug\net8.0\refint\Projeto EAD Rafael.dll
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.pdb
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\obj\Debug\net8.0\Projeto EAD Rafael.genruntimeconfig.cache
+c:\Users\gatos\Downloads\Projeto EAD Rafael (1)\Projeto EAD Rafael\obj\Debug\net8.0\ref\Projeto EAD Rafael.dll
